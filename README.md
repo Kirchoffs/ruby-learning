@@ -18,6 +18,11 @@ or
 ```
 
 ## Ruby Basics
+### Bundle
+```
+>> bundle init
+>> bundle install
+```
 
 ### Keyword self
 ```
