@@ -9,12 +9,14 @@ or
 ```
 >> irb
 (irb) >> load 'hello-world.rb'
+(irb) >> exit
 ```
 
 or
 ```
 >> irb
 (irb) >> puts "Hello World!"
+(irb) >> exit
 ```
 
 ## Ruby Basics
